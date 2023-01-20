@@ -1,0 +1,14 @@
+#nav-bar {
+    position: fixed;
+    top: 0px;
+    left:0px;
+  
+  }
+  
+  .flex-container {
+    display: flex;
+  }
+
+  @media (max-width: 600px){
+    
+  }
